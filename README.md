@@ -21,3 +21,8 @@ Reported to work on:
 10. Alcatel Oc-701 (Tarda un poco en cargar)
 11. PocketPC (IPAQ 4300) con IBM WebSphere Everyplace Micro Environment 5.7.1
 12. Palm E2 con IBM WebSphere Micro Environment  for Palm (Gracias Angel!), Palm Lifedrive 
+
+
+Example:
+
+![Smartmap on blackberry](https://raw.githubusercontent.com/ortegaalfredo/Smartmap/master/BlackBerry.jpg)
